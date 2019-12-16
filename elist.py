@@ -1,3 +1,4 @@
+# This class is used to  input, statistics, and save emounts of eperimental materials
 import numpy as np
 import pandas as pd
 class MaterialList():
